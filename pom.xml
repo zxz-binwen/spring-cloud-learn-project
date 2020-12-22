@@ -16,11 +16,13 @@
     <description>Demo project for Spring Boot</description>
 
     <modules>
+        <module>cloud-stream-project</module>
         <module>cloud-eureka-server</module>
         <module>cloud-config-server</module>
         <module>cloud-config-client</module>
         <module>cloud-gateway-server</module>
         <module>spring-cloud-learn-native</module>
+        <module>cloud-zookeeper-client</module>
     </modules>
 
     <properties>
