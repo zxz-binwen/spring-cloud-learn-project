@@ -1,11 +1,11 @@
 ﻿# spring-cloud-learn-project
   本项目为个人学习所用
 
-## [Spring Cloud Stream](cloud-zookeeper-client)
+## [Spring Cloud Stream](cloud-stream-project)
 
 ### Spring Cloud Stream
 
-Source -> Processor -> Sinks
+Sources -> Processor -> Sinks
 
 分布式+观察者模式+注解驱动+同步/异步
 
