@@ -22,6 +22,7 @@
         <module>cloud-config-client</module>
         <module>cloud-gateway-server</module>
         <module>spring-cloud-learn-native</module>
+        <module>spring-security</module>
         <module>cloud-zookeeper-client</module>
     </modules>
 
