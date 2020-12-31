@@ -5,7 +5,7 @@
 
 ### Spring Cloud Stream
 
-Sources -> Processor -> Sinks
+Source -> Processor -> Sinks
 
 分布式+观察者模式+注解驱动+同步/异步
 
